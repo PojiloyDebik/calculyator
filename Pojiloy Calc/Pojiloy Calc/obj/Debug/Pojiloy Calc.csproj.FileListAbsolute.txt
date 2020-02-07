@@ -1,0 +1,14 @@
+C:\Users\DEBIK\source\repos\Pojiloy Calc\Pojiloy Calc\obj\Debug\Pojiloy Calc.csprojAssemblyReference.cache
+C:\Users\DEBIK\source\repos\Pojiloy Calc\Pojiloy Calc\obj\Debug\MainWindow.g.cs
+C:\Users\DEBIK\source\repos\Pojiloy Calc\Pojiloy Calc\obj\Debug\App.g.cs
+C:\Users\DEBIK\source\repos\Pojiloy Calc\Pojiloy Calc\obj\Debug\Pojiloy Calc_MarkupCompile.cache
+C:\Users\DEBIK\source\repos\Pojiloy Calc\Pojiloy Calc\obj\Debug\Pojiloy Calc_MarkupCompile.lref
+C:\Users\DEBIK\source\repos\Pojiloy Calc\Pojiloy Calc\bin\Debug\Pojiloy Calc.exe.config
+C:\Users\DEBIK\source\repos\Pojiloy Calc\Pojiloy Calc\bin\Debug\Pojiloy Calc.exe
+C:\Users\DEBIK\source\repos\Pojiloy Calc\Pojiloy Calc\bin\Debug\Pojiloy Calc.pdb
+C:\Users\DEBIK\source\repos\Pojiloy Calc\Pojiloy Calc\obj\Debug\MainWindow.baml
+C:\Users\DEBIK\source\repos\Pojiloy Calc\Pojiloy Calc\obj\Debug\Pojiloy Calc.g.resources
+C:\Users\DEBIK\source\repos\Pojiloy Calc\Pojiloy Calc\obj\Debug\Pojiloy_Calc.Properties.Resources.resources
+C:\Users\DEBIK\source\repos\Pojiloy Calc\Pojiloy Calc\obj\Debug\Pojiloy Calc.csproj.GenerateResource.cache
+C:\Users\DEBIK\source\repos\Pojiloy Calc\Pojiloy Calc\obj\Debug\Pojiloy Calc.exe
+C:\Users\DEBIK\source\repos\Pojiloy Calc\Pojiloy Calc\obj\Debug\Pojiloy Calc.pdb
